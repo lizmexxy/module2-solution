@@ -9,5 +9,5 @@ h1 {
 
 p {
   font-family: Times-Roman
-  font-size: 20px;
+  font-size: 60px;
 }
