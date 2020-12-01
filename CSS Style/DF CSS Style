@@ -1,0 +1,13 @@
+body {
+  background-color: #e6e6ff;
+}
+
+h1 {
+  color: #990000;
+  text-align: center;
+}
+
+p {
+  font-family: Times-Roman
+  font-size: 20px;
+}
